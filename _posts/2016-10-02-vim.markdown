@@ -1,0 +1,55 @@
+---
+title: "Vim - Powerful Text Editor in Linux!"
+categories:
+  - blog
+tags:
+  - Linux_Basics
+  - where_to_start
+  - Tech
+---
+
+`Vim` is one of the handy and most common text editor in Linux. It is a text editor that is upwards compatible to Vi.  It can be used to edit all kinds of plain text.  It is especially useful for editing programs.
+
+There  are  a lot of enhancements above Vi: multi level undo, multi windows and buffers, syntax highlighting, command line editing, filename completion, on-line help, visual selection, etc..  See `:help vi_diff.txt` for a summary of the differences between Vim and Vi.
+
+It is the all-in-one editor we would be using for editing configuration files, editing any files on Linux/Coming tutorial posts.
+
+## **Installation:**
+
+Ubuntu:
+{% highlight bash %}
+apt-get install vim -y
+{% endhighlight %}
+
+Fedora/RHEL/CentOS:
+
+{% highlight bash %}
+yum install vim -y
+{% endhighlight %}
+
+Different options available in vim
+
+* **Esc : Command mode**
+
+  - **:q!**: quit without saving
+  - **:wq**: save and quit
+  - **dd**: delete line
+  - **p**: gets previously removed text
+  - **u**: undo last modification
+  - **gg**: Starting of the text
+  - **g**: End of the text
+  - **Ctrl+r**: recover last undo
+
+
+  - **/search item** : search for a text
+  - **?search item** : search in reverse
+  - **:\s/oldtext/newtext/g** : Replaces oldtext with new text
+
+
+* **v: VISUAL MODE** - to make selection (move cursor to start before entering to visual mode).
+
+  - **d**   : Delete selection
+  - **u**   : Undo
+
+
+* **a, i, o, Ins : Insert Mode**
