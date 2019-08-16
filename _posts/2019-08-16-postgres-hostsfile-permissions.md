@@ -8,7 +8,7 @@ tags:
   - Tech
 ---
 
-## Postgres service failing with error: "could not bind IPv4 socket: Cannot assign requested address"
+### Postgres service failing with error: "could not bind IPv4 socket: Cannot assign requested address"
 
 Detailed Error:
 
