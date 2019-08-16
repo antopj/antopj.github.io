@@ -33,7 +33,9 @@ Aug 14 13:21:26 localmachine systemd[1]: Unit postgresql.service entered failed 
 Aug 14 13:21:26 localmachine systemd[1]: postgresql.service failed.
 {% endhighlight bash %}
 
-There are multiple scenarios and places to check in this case. Got lost once because of this. All all troubleshooting steps where pointing towards checking on `/etc/hosts` file and whether any other services are running on port used by `PostgreSQL`.
+There are multiple scenarios and places to check in this case. Yesterday came across one issue. All troubleshooting steps found online where pointing towards checking on `/etc/hosts` file and to verify any other services are running on port used by `PostgreSQL`.
+
+So troubleshooting started with usual steps,
 
 Checked and confirmed no other services are running on localhost port `5432` ( 127.0.0.1:5432 ) :
 
