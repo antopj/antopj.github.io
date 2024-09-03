@@ -102,9 +102,3 @@ If you need to decommission a standby node or if the standby will be offline for
 ```sql
 SELECT pg_drop_replication_slot('slot_name');
 ````  
-
-{% highlight bash %}
-HighLight
-{% endhighlight %}
-
-- postgresqlco.nf [links](https://postgresqlco.nf/) 
