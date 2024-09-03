@@ -1,6 +1,6 @@
 ---
 title: "How to Setup PostgreSQL Replication"
-date: 2022-07-12T15:34:30-04:00
+date: 2024-09-03 T17:26:30-04:00
 categories:
   - blog
 tags:
