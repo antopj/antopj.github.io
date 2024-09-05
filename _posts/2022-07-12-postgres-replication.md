@@ -7,6 +7,7 @@ tags:
   - postgresql
   - replication
   - database
+toc: true
 ---
 
 Setting up PostgreSQL replication ensures that your database remains highly available, providing data redundancy and improving reliability. This guide walks you through the steps to configure PostgreSQL replication between a master and standby node.
