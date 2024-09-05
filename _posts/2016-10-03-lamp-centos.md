@@ -4,7 +4,7 @@ categories:
   - blog
 tags:
   - Linux_Basics
-  - Tech
+toc: true
 ---
 
 This is a simple and straight forward tutorial to install and configure LAMP stack `(Linux, Apache, MySQL, PHP)` on a CentOS 6 system.

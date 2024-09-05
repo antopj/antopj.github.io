@@ -4,8 +4,7 @@ categories:
   - blog
 tags:
   - Linux_Basics
-  - where_to_start
-  - Tech
+toc: true
 ---
 
 What is Inode?

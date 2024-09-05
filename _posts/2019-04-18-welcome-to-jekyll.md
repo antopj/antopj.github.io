@@ -4,18 +4,16 @@ date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
   - misc
 ---
 
-Hello World !
-  Since I was introduced to any computer programming language or tech, it started with a `Hello World`. Then why not the very first post of my blog :P.
+Hello World!
+  Every journey in the world of programming begins with a simple `Hello World`. So, it feels fitting that my very first blog post starts with the same.
 
-After a long duration of procrastination, finally I'm starting with this with a hope to regularly update this with good and rich content which would help others.
+After many months of contemplation and planning, I am finally launching this blog. My goal is to fill it with valuable content that will benefit others in their tech journeys.
 {% highlight bash %}
-I've recreated this blog atleast 4 times. Unwanted premature optimization which delayed everything, all the time.
-This time I'm not going to delete this blog or this first post.
+This blog has been a work in progress for quite some time. I've rebuilt it from scratch at least four times, each time getting caught up in unnecessary optimizations that delayed its launch.
+But this time, I am committed. This blog and this first post are here to stay.
 {% endhighlight %}
 
-Welcoming suggestions and useful [links](http://coffeewithbytes.com) to make this more meaningful to everyone.
+I am open to suggestions and would love to receive useful [links](http://coffeewithbytes.com) to make this blog a valuable resource for everyone.

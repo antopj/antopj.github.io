@@ -5,8 +5,6 @@ categories:
   - blog
 tags:
   - postgresql
-  - replication
-  - database
 toc: true
 ---
 
