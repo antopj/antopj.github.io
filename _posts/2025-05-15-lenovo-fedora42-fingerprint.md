@@ -207,5 +207,3 @@ This confirms that both the left and right index fingers are enrolled for `user1
 By following these steps, you should now have fingerprint authentication enabled on your Lenovo ThinkPad T14 running Fedora 42. You should be able to use your enrolled fingerprints for login and other authentication prompts.
 
 -----
-
-This Jekyll post provides a step-by-step guide based on your terminal output. Let me know if you'd like any modifications or further details!
